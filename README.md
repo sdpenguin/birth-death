@@ -25,13 +25,17 @@ I simulated the population and changed the birth rate to twice what it was after
 Average life expectancy increasing doesn\’t affect much since obviously pension age would increase too, proportional to the average life expectancy! So the same percentage of people in the workforce results.
 Note that if we assume that it is not just people living longer, but also the chronological age of people being stretched out, then improved health is a good argument for increasing the pension age.
 
+!["Example simulation outcome."](example.png)
+
+## Conclusion
+
 Average life expectancy increases the rate of population growth, but the average age is almost entirely determined by the birth rate per capita.
 The simulation also successfully predicts the average age of the world population to a reasonable degree. This may be due to the average life expectancy.
-
-!["Example simulation outcome."](example.png)
 
 ### References
 
 [1] https://www.thetimes.co.uk/edition/world/europe-turns-to-benefits-and-migration-to-boost-birth-rates-ml850zmp2
+
 [2] https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/migrationwithintheuk/articles/thechangingukpopulation/2015-01-15
+
 [3] https://pdfs.semanticscholar.org/1260/91f6e25fb3429fd48bf1a8d85fcbc87526f4.pdf
